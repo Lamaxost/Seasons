@@ -184,7 +184,7 @@ body {
 
 .slider__item {
   width: 80%;
-  background-color: rgba(255, 255, 255, 0.25);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .slider__item-container {
@@ -212,6 +212,7 @@ body {
 }
 
 .slider__text {
+  min-height: 300px;
   width: 30%;
   max-width: 350px;
   position: relative;
